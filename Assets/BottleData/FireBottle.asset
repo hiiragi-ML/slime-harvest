@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e54ca61cecda38141a63ec0696881f6b, type: 3}
+  m_Name: FireBottle
+  m_EditorClassIdentifier: Assembly-CSharp::BottleData
+  bottleID: bottle_fire
+  bottleName: "\u307B\u306E\u304A\u306E\u30D3\u30F3"
+  price: 1000
+  bottleSprite: {fileID: -6674786113833751282, guid: 47f091cd8134e6e44b18b1041ab66f8b, type: 3}
+  parentSlimeSprites: []
+  normalSlime: {fileID: 0}
+  rareSlime: {fileID: 0}
+  superRareSlime: {fileID: 0}

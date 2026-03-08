@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e54ca61cecda38141a63ec0696881f6b, type: 3}
+  m_Name: NormalBottle
+  m_EditorClassIdentifier: Assembly-CSharp::BottleData
+  bottleID: bottle_normal
+  bottleName: "\u3075\u3064\u3046\u306E\u30D3\u30F3"
+  price: 0
+  bottleSprite: {fileID: -2174827668884051896, guid: cb74f9dca402d0046910bbd8c842ae15, type: 3}
+  parentSlimeSprites:
+  - {fileID: -7282886668606283007, guid: f047250d442b36b41b94c00ebd363f3f, type: 3}
+  - {fileID: -7282886668606283007, guid: f047250d442b36b41b94c00ebd363f3f, type: 3}
+  - {fileID: -7282886668606283007, guid: f047250d442b36b41b94c00ebd363f3f, type: 3}
+  - {fileID: -7282886668606283007, guid: f047250d442b36b41b94c00ebd363f3f, type: 3}
+  - {fileID: -7282886668606283007, guid: f047250d442b36b41b94c00ebd363f3f, type: 3}
+  maxCapacitySlime: {fileID: -3284451559135278663, guid: b079986007d909e48bd2857decb8ad6b, type: 3}
+  normalSlime: {fileID: 0}
+  rareSlime: {fileID: 0}
+  superRareSlime: {fileID: 0}
